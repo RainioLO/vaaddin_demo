@@ -1,0 +1,27 @@
+target/
+
+node_modules/
+generated/
+frontend/themes/**/*.generated.js
+.npmrc
+
+# Webpack build related files get autogenarated if needed, no customisation needed in this project
+starter/package.json
+starter/pnpm-lock.yaml
+starter/pnpmfile.js
+starter/tsconfig.json
+starter/types.d.ts
+starter/webpack.config.js
+starter/webpack.generated.js
+
+
+.classpath
+.project
+.settings
+# Idea
+.idea
+*.iml
+
+/bin/
+
+

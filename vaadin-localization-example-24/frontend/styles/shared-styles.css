@@ -1,0 +1,10 @@
+/*
+   CSS styling examples for the Vaadin app.
+   Visit https://vaadin.com/docs/flow/theme/theming-overview.html and
+   https://vaadin.com/themes/lumo for more information.
+*/
+
+span {
+    font-size: var(--lumo-font-size-xs);
+}
+
